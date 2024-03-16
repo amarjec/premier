@@ -35,19 +35,17 @@ html, body {
     letter-spacing: -.2vw;
     font-weight: 800;
 }
-/* #nav h1::after {
-    content: "c";
-    font-size: 1vw;
+#nav h1::after {
+    content: "©️";
+    font-size: 1.5vw;
     margin-left: 8px;
     margin-top: -15px;
-    width: 15px;
-    height: 15px;
     display: flex;
     align-items: center;
     justify-content: center;
-    border: 1px solid black;
-    border-radius: 50%; 
-} */
+    
+}
+
 #nav h4 {
     /* background-color: salmon; */
     border-right: 3px solid black;
